@@ -1,7 +1,7 @@
 var n1 = 2;
-var n2 = 3;
-var n3 = 2;
-var n4 = 2;
+var n2 = 2;
+// var n3 = 2;
+// var n4 = 2;
 
 function sumar(n1, n2) {
   var suma = n1 + n2;
